@@ -1,0 +1,7 @@
+pygments: true
+permalink: /:year/:month/:day/:title
+markdown: rdiscount
+exclude: ['.git']
+name: "Apple Pie"
+description: "A podcast commentary on urban life and getting inspired"
+url: http://applepie.fyi

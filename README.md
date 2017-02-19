@@ -1,8 +1,7 @@
-# applepie.fyi
+# Otter Pop
 
-## How to use
-- Commit directly to gh-pages
-- Changes go live to production
+The world's greatest Jekyll theme.
 
-## Supported Languages
-- Github Pages only supports Jekyll
+Example: <http://tybenz.com>
+
+![](http://jekyllthemes.org/thumbnails/otter-pop.png)
